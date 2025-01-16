@@ -69,10 +69,18 @@ dependencies {
 ```
 
 ## Screenshots
-[Add screenshots of your app here]
+
+![list](https://github.com/user-attachments/assets/b95c7eb3-0eae-4270-afcc-2c487055aa8b)
+![bl](https://github.com/user-attachments/assets/53eabeb8-ed5f-4d85-b2e6-752c34830004)
+![ap](https://github.com/user-attachments/assets/d2aff628-f45f-4569-9667-73f23672ec17)
+![ll](https://github.com/user-attachments/assets/2012bba5-ac7c-4809-a231-72d2f195c181)
+![re](https://github.com/user-attachments/assets/6f2cb03e-44e6-4c53-8bf4-f79536b286ed)
 
 ## Future Enhancements
+
+
 - Search functionality for both recipes and books
+
 - Book detail screen
 - Favorites feature
 - Offline support using Room database
@@ -83,8 +91,7 @@ dependencies {
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
-[Your Name]
-
+Priyanshu Kumar Ojha
 ## Acknowledgments
 - TheMealDB for the recipe API
 - OpenLibrary for the books API
