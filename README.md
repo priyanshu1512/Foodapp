@@ -23,24 +23,6 @@ This Android application showcases recipes and books using modern Android develo
 - TheMealDB API: https://www.themealdb.com/api/json/v1/1/
 - OpenLibrary API: https://openlibrary.org/search.json
 
-## Project Structure
-
-app/
-├── src/
-│   ├── main/
-│   │   ├── java/eu/tutorials/myrecipeapp/
-│   │   │   ├── ApiService.kt
-│   │   │   ├── Category.kt
-│   │   │   ├── Book.kt
-│   │   │   ├── MainActivity.kt
-│   │   │   ├── MainViewModel.kt
-│   │   │   ├── RecipeApp.kt
-│   │   │   ├── RecipeScreen.kt
-│   │   │   ├── CategoryDetailScreen.kt
-│   │   │   └── Screen.kt
-│   │   └── res/
-│   │       └── ...
-└── build.gradle
 
 
 ## Setup Instructions
@@ -52,6 +34,7 @@ app/
 ## Dependencies
 gradle
 dependencies {
+    
     // Jetpack Compose
     implementation "androidx.compose.ui:ui"
     implementation "androidx.compose.material3:material3"
@@ -88,7 +71,7 @@ dependencies {
 Feel free to fork this project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
-[Your Name]
+Priyanshu Kumar Ojha
 
 ## Acknowledgments
 - TheMealDB for the recipe API
